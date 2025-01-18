@@ -1,4 +1,4 @@
-# Cows and Bulls
+# Bulls and Cows
 
 ## About
 
